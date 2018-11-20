@@ -8,4 +8,4 @@ Course webside (in Czech language): https://cw.fel.cvut.cz/wiki/courses/b3b33alp
 |2|base.py|Performs an addition of two float numbers in specific base from 2 up to 36. |
 |3|numbers.py|Converts any integer number into its word representation and vice versa.|
 |4|algebrogram.py|Solves any one-line [algebrogram](https://en.wikipedia.org/wiki/Verbal_arithmetic "Wikipedia Webpage") with emphasis on time complexity.|
-|5|chess.py|Searches for mat, schach or garde in chess game concerning every possible next move.|
+|5|chess.py|Searches for mat, schach or garde in chess game concerning next move.|
