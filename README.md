@@ -9,3 +9,4 @@ This directory contains homework codes from my university course "Algorithms and
 |3|numbers.py|Converts any integer number into its word representation and vice versa.|
 |4|algebrogram.py|Solves any one-line [algebrogram](https://en.wikipedia.org/wiki/Verbal_arithmetic "en.wikipedia.org/wiki/Verbal_arithmetic") with emphasis on time complexity.|
 |5|chess.py|Searches for mat, schach or garde in chess game concerning next move.|
+|6|rectangle.py|Finds coordinates of the largest rectangle of negative values in a matrix.|
