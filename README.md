@@ -7,6 +7,7 @@ This directory contains homework codes from my university course "Algorithms and
 |1|seq_sum.py|Finds the longest subsequence of numbers with specified parameters.|
 |2|base.py|Performs an addition of two float numbers in specific base from 2 up to 36. |
 |3|numbers.py|Converts any integer number into its word representation and vice versa.|
-|4|algebrogram.py|Solves any one-line [algebrogram](https://en.wikipedia.org/wiki/Verbal_arithmetic "en.wikipedia.org/wiki/Verbal_arithmetic") with emphasis on time complexity.|
+|4|algebrogram.py|Solves any one-line [algebrogram](https://en.wikipedia.org/wiki/Verbal_arithmetic "wikipedia.org/Verbal_arithmetic") with emphasis on time complexity.|
 |5|chess.py|Searches for mat, schach or garde in chess game concerning next move.|
 |6|rectangle.py|Finds coordinates of the largest rectangle of negative values in a matrix.|
+|7|ubongo.py|Solves the clasic [ubongo game](https://en.wikipedia.org/wiki/Ubongo "wikipedia.org/Ubongo") with the given board and puzzles.|
