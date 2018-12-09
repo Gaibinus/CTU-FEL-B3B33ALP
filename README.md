@@ -11,4 +11,4 @@ This directory contains homework codes from my university course "Algorithms and
 |5|chess.py|Searches for mat, schach or garde in chess game concerning next move.|
 |6|rectangle.py|Finds coordinates of the largest rectangle of negative values in a matrix.|
 |7|ubongo.py|Solves the clasic [ubongo game](https://en.wikipedia.org/wiki/Ubongo "wikipedia.org/Ubongo") with the given board and puzzles.|
-|8|three.py|Converts any formula in the[infix notation](https://en.wikipedia.org/wiki/Infix_notation "wikipedia.org/Infix_notation") to its equivalent in the [three-addrress code](https://en.wikipedia.org/wiki/Three-address_code "wikipedia.org/Three-address_code").|
+|8|three.py|Converts from the [infix notation](https://en.wikipedia.org/wiki/Infix_notation "wikipedia.org/Infix_notation") to its equivalent in the [three-addrress code](https://en.wikipedia.org/wiki/Three-address_code "wikipedia.org/Three-address_code").|
