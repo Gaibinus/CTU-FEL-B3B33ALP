@@ -2,7 +2,7 @@
 This directory contains homework codes from my university course "Algorithms and programming" wrote in Python 3. All of them are the "harder" ones from two possible variants from every homework.
 [Course webside](https://cw.fel.cvut.cz/wiki/courses/b3b33alp/cviceni/start "cw.fel.cvut.cz/wiki/courses/b3b33alp/cviceni/start") (in Czech language).
 
-|no.|Script name|Main idea|
+|no.|Script name|Main task|
 |:---:|:---|:---|
 |1|seq_sum.py|Finds the longest subsequence of numbers with specified parameters.|
 |2|base.py|Performs an addition of two float numbers in specific base from 2 up to 36. |
