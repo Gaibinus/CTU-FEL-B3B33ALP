@@ -13,3 +13,4 @@ This directory contains homework codes from my university course "Algorithms and
 |7|ubongo.py|Solves the clasic [ubongo game](https://en.wikipedia.org/wiki/Ubongo "wikipedia.org/Ubongo") with the given board and puzzles.|
 |8|three.py|Converts expression from the [infix notation](https://en.wikipedia.org/wiki/Infix_notation "wikipedia.org/Infix_notation") to the [three-addrress code](https://en.wikipedia.org/wiki/Three-address_code "wikipedia.org/Three-address_code").|
 |9|lexical.py|Analyse the basic Python code on lexical layer with predefined structures.|
+|10|lz77.py|Compress and decompress given text using 7-bit ASCII [LZ77 algotithm](https://en.wikipedia.org/wiki/LZ77_and_LZ78 "wikipedia.org/LZ77_and_LZ78").|
